@@ -1,4 +1,4 @@
-package vasylenko.placesapiexample;
+package vasylenko.placesapiexample.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -10,6 +10,8 @@ import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
+
+import vasylenko.placesapiexample.R;
 
 /**
  * Активити для работы с Google картой.
